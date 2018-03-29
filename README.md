@@ -1,4 +1,4 @@
 
-##WebVR Activity for Mozilla Campus Clubs program
+## A great Public Speaking Activity for Mozilla Campus Clubs program
 
-[Check the activity here](https://mozillacampusclubs.github.io/Build-a-Virtual-World/) 
+[Check the activity here]( ) 
